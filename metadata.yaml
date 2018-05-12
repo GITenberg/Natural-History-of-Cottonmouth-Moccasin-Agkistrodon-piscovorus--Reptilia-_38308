@@ -1,0 +1,30 @@
+_repo: Natural-History-of-Cottonmouth-Moccasin-Agkistrodon-piscovorus--Reptilia-_38308
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burkett, Ray D.
+    birthdate: 1938
+    gutenberg_agent_id: '39383'
+    url: http://www.gutenberg.org/2009/agents/39383
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Reptiles and Amphibians
+gutenberg_issued: '2011-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38308'
+  lccn: '67063372'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Agkistrodon piscivorus'
+- !lcc 'QH'
+- !lcsh 'Snakes'
+title: Natural History of Cottonmouth Moccasin, Agkistrodon piscovorus (Reptilia)
+url: http://www.gutenberg.org/ebooks/38308
